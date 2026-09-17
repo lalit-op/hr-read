@@ -1,0 +1,6 @@
+{
+  "name": "HR Read",
+  "description": "All-in-one high-fidelity document reader for PDF, Word, PowerPoint, Excel, and Text files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

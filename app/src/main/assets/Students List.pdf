@@ -1,0 +1,99 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1366 >>
+stream
+BT
+0.118 0.227 0.541 rg 0 770 595 72 re f
+1 1 1 rg /F1 18 Tf 32 800 Td (Students List - Computer Science (Fall 2026)) Tj
+0.8 0.85 0.9 rg /F1 10 Tf 0 -18 Td (Page 1 of 3 - Department of Computer Science & Engineering) Tj
+0 0 0 rg /F1 12 Tf
+0.95 0.96 0.98 rg 32 680 531 24 re f
+0.28 0.33 0.41 rg /F1 10 Tf 42 688 Td (ID      FULL NAME             EMAIL                             MAJOR                  GPA    STATUS) Tj
+0.06 0.09 0.16 rg /F1 10 Tf
+0 -28 Td (CS-101 Emma Watson           emma.w@university.edu             Computer Science       3.92   Active) Tj
+0 -24 Td (CS-102 James Rodriguez       james.r@university.edu            Software Eng.          3.78   Active) Tj
+0 -24 Td (CS-103 Aaliyah Patel         aaliyah.p@university.edu          AI & Robotics          3.95   Active) Tj
+0 -24 Td (CS-104 Lucas Vance           lucas.v@university.edu            Cybersecurity          3.64   Probation) Tj
+0 -24 Td (CS-105 Sophia Chen           sophia.c@university.edu           Data Science           3.88   Active) Tj
+0 -24 Td (CS-106 Benjamin Clark        b.clark@university.edu            Computer Science       3.45   Active) Tj
+0 -24 Td (CS-107 Mia Tanaka            mia.t@university.edu              AI & Robotics          3.91   Active) Tj
+0 -24 Td (CS-108 Ethan Wright          ethan.w@university.edu            Software Eng.          3.82   Active) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 1144 >>
+stream
+BT
+0.118 0.227 0.541 rg 0 770 595 72 re f
+1 1 1 rg /F1 18 Tf 32 800 Td (Students List - Electrical Engineering (Fall 2026)) Tj
+0.8 0.85 0.9 rg /F1 10 Tf 0 -18 Td (Page 2 of 3 - Department of Electrical & Computer Engineering) Tj
+0 0 0 rg /F1 12 Tf
+0.95 0.96 0.98 rg 32 680 531 24 re f
+0.28 0.33 0.41 rg /F1 10 Tf 42 688 Td (ID      FULL NAME             EMAIL                             MAJOR                  GPA    STATUS) Tj
+0.06 0.09 0.16 rg /F1 10 Tf
+0 -28 Td (EE-201 Alexander Davis       alex.d@university.edu             VLSI Systems           3.85   Active) Tj
+0 -24 Td (EE-202 Chloe Bennett         chloe.b@university.edu            Signal Processing      3.71   Active) Tj
+0 -24 Td (EE-203 Daniel Kim            daniel.k@university.edu           Embedded Systems       3.93   Active) Tj
+0 -24 Td (EE-204 Hannah Scott          hannah.s@university.edu           Power Systems          3.62   Active) Tj
+0 -24 Td (EE-205 Oliver Martinez       oliver.m@university.edu           Robotics               3.89   Active) Tj
+0 -24 Td (EE-206 Zoe Anderson          zoe.a@university.edu              Telecommunications     3.75   Active) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 1187 >>
+stream
+BT
+0.059 0.09 0.165 rg 0 535 842 60 re f
+1 1 1 rg /F1 18 Tf 36 565 Td (Comprehensive Semester Analytics & Grading Matrix (Expanded Landscape)) Tj
+0.58 0.64 0.72 rg /F1 10 Tf 0 -18 Td (Page 3 of 3 - Wide-Format Blueprint / Multi-Column View (842 x 595 pt)) Tj
+0.93 0.95 0.98 rg 36 430 770 70 re f
+0 0 0 rg /F1 11 Tf 48 470 Td (Computer Science Department: 342 Students Enrolled | Average GPA: 3.68 | 98.2% Retention) Tj
+0.15 0.39 0.92 rg 48 450 746 4 re f
+0.95 0.96 0.98 rg 36 380 770 24 re f
+0.28 0.33 0.41 rg /F1 10 Tf 48 388 Td (SEMESTER     COURSE CODE    COURSE TITLE                                   INSTRUCTOR         CREDITS   ENROLLMENT) Tj
+0.06 0.09 0.16 rg /F1 10 Tf
+0 -28 Td (Fall 2026    CS-401         Advanced Operating Systems & Kernel Design     Dr. Linus Tan      4         88 / 90) Tj
+0 -24 Td (Fall 2026    CS-482         Distributed Systems & Cloud Architecture       Dr. Sarah Connor   4         90 / 90) Tj
+0 -24 Td (Fall 2026    EE-340         Digital Signal Processing & Wavelets           Dr. Claude Shannon 3         65 / 75) Tj
+0 -24 Td (Fall 2026    MATH-310       Matrix Algebra & Numerical Optimization        Dr. Alan Turing    3         110 / 120) Tj
+ET
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000000329 00000 n 
+0000001746 00000 n 
+0000001872 00000 n 
+0000003067 00000 n 
+0000003193 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+4431
+%%EOF

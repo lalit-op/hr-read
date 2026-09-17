@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Back sheet -->
+    <path
+        android:fillColor="#5C6BC0"
+        android:pathData="M38,24h32c2.2,0 4,1.8 4,4v50c0,2.2 -1.8,4 -4,4H38c-2.2,0 -4,-1.8 -4,-4V28c0,-2.2 1.8,-4 4,-4z" />
+    <!-- Front main document sheet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,30h30l12,12v38c0,2.2 -1.8,4 -4,4H32c-2.2,0 -4,-1.8 -4,-4V34c0,-2.2 1.8,-4 4,-4z" />
+    <!-- Document corner fold -->
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M62,30v12h12z" />
+    <!-- Red PDF accent stripe -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M36,46h20v4H36z" />
+    <!-- Blue Word accent stripe -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M36,54h36v3H36z" />
+    <!-- Green Excel accent stripe -->
+    <path
+        android:fillColor="#43A047"
+        android:pathData="M36,61h28v3H36z" />
+    <!-- Orange PPT accent stripe -->
+    <path
+        android:fillColor="#FB8C00"
+        android:pathData="M36,68h20v3H36z" />
+</vector>
